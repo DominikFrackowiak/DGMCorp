@@ -17,3 +17,4 @@ const handleCurrentYear = () =>{
 }
 
 handleCurrentYear();
+
